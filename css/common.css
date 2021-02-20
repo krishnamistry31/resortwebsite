@@ -9,7 +9,12 @@ a{
 footer{
     background-color: black;
     color: wheat;
-    text-align: center;            
+    text-shadow: 2px 4px 6px white; 
+	/* position: fixed; */
+    /* bottom: 0px; */
+    /* left: 0px; */
+    /* right: 0px; */
+    /* margin-bottom: 0px; */
 }
 .anchor:link, .anchor:visited {
     color: black;
@@ -22,3 +27,11 @@ footer{
 .anchor:hover, .anchor:active {
     background-color: rgb(20, 194, 194);
 }
+
+i { 
+    text-shadow: 2px 4px 6px white; 
+  } 
+.fa{ 
+    font-size: 50px; 
+    } 
+		
