@@ -1,3 +1,6 @@
+<?php
+	ini_set("display_errors","OFF");
+?>
 <html>
 <head>
 
@@ -54,13 +57,14 @@
             </ul>
         </div>      
     </nav>      
+
 <!-- The Modal -->
 <div id="myModal" class="modal">
 
   <!-- Modal content -->
-  <div class="modal-content">
+  <div class="modal-content" style="height:auto">
     <div class="modal-header">
-        <h2>Login</h2>
+        <h2 style="margin-left:20px;margin-top:20px;font-weight:900">Login</h2>
         <span class="close">&times;</span>
         <h2 style="color:white">Login</h2>
     </div>
@@ -70,47 +74,26 @@
                 <div class="input-group-prepend">
                     <span class="input-group-text">+91 - </span>
                 </div>
-                <input type="text" class="form-control" placeholder="Enter phone number" id="usr" name="phone">
+                <input type="text" class="form-control" placeholder="Enter phone number" id="phone" name="phone">
             </div>    
-            <button type="submit" class="btn btn-info btn-block" id="sendotpbutton">Send OTP</button>
+            <center>
+            <button type="submit" class="btn btn-info btn-block" style="width:40%" id="sendotpbutton">Login</button>
+            </center>
         </form>
     </div>
   </div>
 
 </div>
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <div class="modal-header">
-        <h2>Login</h2>
-        <span class="close">&times;</span>
-        <h2 style="color:white">Login</h2>
-    </div>
-    <div class="modal-body">
-        <form action="#">
-            <div class="input-group mb-3">
-                <div class="input-group-prepend">
-                    <span class="input-group-text">+91 - </span>
-                </div>
-                <input type="text" class="form-control" placeholder="Enter phone number" id="usr" name="phone">
-            </div>    
-            <button type="submit" class="btn btn-info btn-block">Send OTP</button>
-        </form>
-    </div>
-  </div>
-
-</div>
-
-<script src="js/modal.js"></script>
+<div style="margin-top:75px">
+    <script src="js/modal.js"></script>
     <?php 
 		if($_REQUEST['view']=="")
 	    	include("home.php");
 		else
 			include($_REQUEST['view']);
 	?>
+</div>
     <footer style ="margin-top:30px;padding:30px" >
 		<div class="row">
 			<div class="col" style="text-align: left">

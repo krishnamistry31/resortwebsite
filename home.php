@@ -1,4 +1,3 @@
-    <br/>
     <div id="mycarousel" class="carousel slide" data-ride="carousel">
 	
         <ul class="carousel-indicators">
