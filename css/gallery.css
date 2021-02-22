@@ -12,23 +12,23 @@ h2{
 .float-child {
   cursor: pointer;
   outline: none;
-  box-shadow: 0 2px rgb(231, 231, 231);
+  box-shadow: 5px 5px rgb(30, 61, 117);;
     width: 15%;
     float: left;
     padding: 15px;
-    border: 2px solid rgb(92, 89, 89);
+    border: 1px solid gainsboro;
     border-bottom: 0px;
     background-color: white;
     text-align: center;
     font-size: 20px;
 }
 .float-child:hover{
-    background-color: rgb(138, 148, 153);
+    background-color: rgb(121, 149, 224);
     color: white;
 }
 .float-child:active {
-    background-color: rgb(138, 148, 153);;
-    box-shadow: 0 2px #666;
+    background-color: rgb(113, 138, 206);
+    box-shadow: 0 2px rgb(86, 137, 231);
     transform: translateY(4px);
   }
   .container {

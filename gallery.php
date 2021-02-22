@@ -244,7 +244,7 @@
                     </tr>                
                     <tr>
                         <td>
-                            <video width="320" height="240" autoplay muted controls>
+                            <video width="320" height="240" muted controls>
                                 <source src="imgs/nature3.mp4" type="video/mp4">
                             </video>
                         </td>
