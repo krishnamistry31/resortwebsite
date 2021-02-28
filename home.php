@@ -15,29 +15,29 @@
             <div class="carousel-item active">
               <img src="imgs/caro1.jfif" alt="Los Angeles" width="1100" height="500">
               <div class="carousel-caption">
-                <h3>Los Angeles</h3>
-                <p>We had such a great time in LA!</p>
+                <h3></h3>
+                <p></p>
               </div>   
             </div>
             <div class="carousel-item">
               <img src="imgs/caro2.jfif" alt="Chicago" width="1100" height="500">
               <div class="carousel-caption">
-                <h3>Chicago</h3>
-                <p>Thank you, Chicago!</p>
+                <h3></h3>
+                <p></p>
               </div>   
             </div>
             <div class="carousel-item">
               <img src="imgs/caro3.jfif" alt="New York" width="1100" height="500">
               <div class="carousel-caption">
-                <h3>New York</h3>
-                <p>We love the Big Apple!</p>
+                <h3></h3>
+                <p></p>
               </div>   
             </div>
             <div class="carousel-item">
               <img src="imgs/caro4.jfif" alt="California" width="1100" height="500">
               <div class="carousel-caption">
-                <h3>California</h3>
-                <p>We love the Big Apple!</p>
+                <h3></h3>
+                <p></p>
               </div>   
             </div>
           </div>

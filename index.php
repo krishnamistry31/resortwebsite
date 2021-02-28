@@ -19,23 +19,23 @@
             <img src="imgs/logo2.png" alt="logo" style="width:150px;height:50px;">
         </a>
         <ul class="navbar-nav">
-            <li class="nav-item">
+            <li class="nav-item" style="font-size:23px">
                 <a class="nav-link anchor" href="index.php">Home</a>
             </li>
-            <li class="nav-item" style="width:100px">
-                <a class="nav-link anchor" href="index.php?view=contact.php">Contact Us</a>
+            <li class="nav-item" style="width:100px;font-size:23px">
+                <a class="nav-link anchor" href="index.php?view=contact.php">Contact</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item" style="font-size:23px">
                 <a class="nav-link anchor" href="index.php?view=gallery.php">Gallery</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item" style="font-size:23px">
                 <a class="nav-link anchor" href="index.php?view=activities.php">Activities</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item" style="font-size:23px">
                 <a class="nav-link anchor" href="index.php?view=services.php">Services</a>
             </li>
             <!-- Dropdown -->
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown" style="font-size:23px">
                 <a class="nav-link dropdown-toggle anchor" href="index.php?view=rooms.php" id="navbardrop" data-toggle="dropdown">
                 Rooms
                 </a>
@@ -48,11 +48,11 @@
         </ul>
         <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
+                <li class="nav-item" style="font-size:23px">
                     <a class="nav-link anchor" id="myBtn" href="#">Login</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link anchor" href="index.php?view=book.php">Book Tickets</a>
+                <li class="nav-item" style="font-size:23px">
+                    <a class="nav-link anchor" href="index.php?view=book.php"><i class="fa fa-calendar-alt"></i>&nbsp;Book</a>
                 </li>
             </ul>
         </div>      
@@ -66,10 +66,10 @@
     <div class="modal-header">
         <h2 style="margin-left:20px;margin-top:20px;font-weight:900">Login</h2>
         <span class="close">&times;</span>
-        <h2 style="color:white">Login</h2>
+        <h3 style="color:white">Login</h3>
     </div>
     <div class="modal-body">
-        <form action="#">
+        <form>
             <div class="input-group mb-3">
                 <div class="input-group-prepend">
                     <span class="input-group-text">+91 - </span>
@@ -77,12 +77,49 @@
                 <input type="text" class="form-control" placeholder="Enter phone number" id="phone" name="phone">
             </div>    
             <center>
-            <button type="submit" class="btn btn-info btn-block" style="width:40%" id="sendotpbutton">Login</button>
+            <button type="submit" class="btn btn-info btn-block" style="width:40%" id="sendotpbutton" onclick="showOtpDiv()">Send OTP</button>
             </center>
         </form>
+        <div id="otpdiv" style="display:none">
+            <form>
+                <p style="text-align:center;color:orange">OTP sent</p>
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Enter OTP" id="otp" name="otp">
+                </div>    
+                <div id="expire">
+                <p style="text-align:center;color:orange"> Your OTP will expire in <span id="mycounter"> </span> seconds.
+                </p>
+                </div>
+                <center>
+                <div style="display:none" id="resendotpdiv">
+                <button type="submit" class="btn btn-info btn-block" style="width:40%" id="resendotp">Resend OTP</button><br/>
+                </div>
+                <button type="submit" class="btn btn-info btn-block" style="width:40%" id="login">Login</button>
+                </center>
+            </form>
+        </div>
     </div>
   </div>
-
+<script>
+    i=60;
+    function showOtpDiv() {
+        var x = document.getElementById("otpdiv");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        }
+        document.getElementById('mycounter').innerHTML = i;
+        i--;
+        var y = document.getElementById("resendotpdiv");
+        var z = document.getElementById("expire");
+        if (i < 0) {
+            y.style.display = "block";
+            z.style.display = "none";
+        }
+        else {
+            setTimeout(showOtpDiv, 1000);
+        }
+    }
+</script>
 </div>
 
 <div style="margin-top:75px">

@@ -4,7 +4,7 @@
     </head>
     <body>
         <div style="margin-left:100px;margin-top:130px">
-            <h2>Book Tickets</h2>            
+            <h2>Book</h2>            
         </div>
     </body>
 </html>
