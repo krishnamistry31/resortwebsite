@@ -16,7 +16,7 @@
                     <tr>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/activity1.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -24,7 +24,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/campfire.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -32,7 +32,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/home4.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -42,7 +42,7 @@
                     <tr>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/circlebridge.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -50,7 +50,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/bridge2.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -58,7 +58,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/pool.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -68,7 +68,7 @@
                     <tr>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/tyre.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -76,7 +76,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/home7.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -84,7 +84,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/home1.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -94,7 +94,7 @@
                     <tr>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/home8.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -102,7 +102,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/bridge1.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -110,7 +110,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/group.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -120,7 +120,7 @@
                     <tr>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs\PREMIUM-ROOM.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -128,7 +128,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs\trampoline.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -136,7 +136,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs\SUPER-DELUX-EXECUTIVE.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -146,7 +146,7 @@
                     <tr>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/home3.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -154,7 +154,7 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs\SUPER-DELUXE.jpg" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
@@ -162,65 +162,13 @@
                         </td>
                         <td> 
                             <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
+                                <img src="imgs/zipline.jfif" alt="Avatar" class="image" style="width:300px">
                                 <div class="middle">
                                     <div class="text"></div>
                                 </div>
                             </div>
                         </td>
                     </tr>
-                    <tr>
-                        <td> 
-                            <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
-                                <div class="middle">
-                                    <div class="text"></div>
-                                </div>
-                            </div>
-                        </td>
-                        <td> 
-                            <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
-                                <div class="middle">
-                                    <div class="text"></div>
-                                </div>
-                            </div>
-                        </td>
-                        <td> 
-                            <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
-                                <div class="middle">
-                                    <div class="text"></div>
-                                </div>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td> 
-                            <div class="container">
-                                <img src="imgs/caro1.jfif" alt="Avatar" class="image" style="width:300px">
-                                <div class="middle">
-                                    <div class="text"></div>
-                                </div>
-                            </div>
-                        </td>
-                        <td> 
-                            <div class="container">
-                                <img src="imgs/caro2.jfif" alt="Avatar" class="image" style="width:300px">
-                                <div class="middle">
-                                    <div class="text"></div>
-                                </div>
-                            </div>
-                        </td>
-                        <td> 
-                            <div class="container">
-                                <img src="imgs/caro3.jfif" alt="Avatar" class="image" style="width:300px">
-                                <div class="middle">
-                                    <div class="text"></div>
-                                </div>
-                            </div>
-                        </td>
-                    </tr>                
                 </table>
             </div>
             <div id="videos" style="display:none;">                

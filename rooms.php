@@ -13,13 +13,13 @@
                     <tr>
                         <td>
                             <div id="img1">
-                                <img src="imgs\PREMIUM-ROOM.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
+                                <img src="imgs\SUPER-DELUXE.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
                             </div>
                             <div id="img2" style="display:none">
-                                <img src="imgs\caro1.jfif" alt="Avatar" class="image" style="width:900px;height:600px">
+                                <img src="imgs\SUPER-DELUXE2.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
                             </div>
-                            <button onclick="disimg1()"><img src="imgs\PREMIUM-ROOM.jpg" style="width:150px;height:100px"></button>
-                            <button onclick="disimg2()"><img src="imgs\caro1.jfif" style="width:150px;height:100px"></button>
+                            <button onclick="disimg1()"><img src="imgs\SUPER-DELUXE.jpg" style="width:150px;height:100px"></button>
+                            <button onclick="disimg2()"><img src="imgs\SUPER-DELUXE2.jpg" style="width:150px;height:100px"></button>
                         </td>
                         <td class="checkoutcol" width="35%">
                             <h3 style="font-weight:bold">YOUR RESERVATION</h3>
@@ -108,13 +108,13 @@
                     <tr>
                         <td>
                             <div id="img3">
-                                <img src="imgs\PREMIUM-ROOM.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
+                                <img src="imgs\SUPER-DELUX-EXECUTIVE.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
                             </div>
                             <div id="img4" style="display:none">
-                                <img src="imgs\caro2.jfif" alt="Avatar" class="image" style="width:900px;height:600px">
+                                <img src="imgs\SUPER-DELUXE2.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
                             </div>
-                            <button onclick="disimg3()"><img src="imgs\PREMIUM-ROOM.jpg" style="width:150px;height:100px"></button>
-                            <button onclick="disimg4()"><img src="imgs\caro2.jfif" style="width:150px;height:100px"></button>
+                            <button onclick="disimg3()"><img src="imgs\SUPER-DELUX-EXECUTIVE.jpg" style="width:150px;height:100px"></button>
+                            <button onclick="disimg4()"><img src="imgs\SUPER-DELUXE2.jpg" style="width:150px;height:100px"></button>
                         </td>
                         <td class="checkoutcol" width="35%">
                             <h3 style="font-weight:bold">YOUR RESERVATION</h3>
@@ -206,10 +206,10 @@
                                 <img src="imgs\PREMIUM-ROOM.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
                             </div>
                             <div id="img6" style="display:none">
-                                <img src="imgs\caro3.jfif" alt="Avatar" class="image" style="width:900px;height:600px">
+                                <img src="imgs\PREMIUM-ROOM2.jpg" alt="Avatar" class="image" style="width:900px;height:600px">
                             </div>
                             <button onclick="disimg5()"><img src="imgs\PREMIUM-ROOM.jpg" style="width:150px;height:100px"></button>
-                            <button onclick="disimg6()"><img src="imgs\caro3.jfif" style="width:150px;height:100px"></button>
+                            <button onclick="disimg6()"><img src="imgs\PREMIUM-ROOM2.jpg" style="width:150px;height:100px"></button>
                         </td>
                         <td class="checkoutcol" width="35%">
                             <h3 style="font-weight:bold">YOUR RESERVATION</h3>

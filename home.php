@@ -13,28 +13,28 @@
           </ul>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="imgs/caro1.jfif" alt="Los Angeles" width="1100" height="500">
+              <img src="imgs/home1.jpg" alt="Los Angeles" width="1100" height="500">
               <div class="carousel-caption">
                 <h3></h3>
                 <p></p>
               </div>   
             </div>
             <div class="carousel-item">
-              <img src="imgs/caro2.jfif" alt="Chicago" width="1100" height="500">
+              <img src="imgs/home4.jpg" alt="Chicago" width="1100" height="500">
               <div class="carousel-caption">
                 <h3></h3>
                 <p></p>
               </div>   
             </div>
             <div class="carousel-item">
-              <img src="imgs/caro3.jfif" alt="New York" width="1100" height="500">
+              <img src="imgs/home3.jpg" alt="New York" width="1100" height="500">
               <div class="carousel-caption">
                 <h3></h3>
                 <p></p>
               </div>   
             </div>
             <div class="carousel-item">
-              <img src="imgs/caro4.jfif" alt="California" width="1100" height="500">
+              <img src="imgs/home2.jpg" alt="California" width="1100" height="500">
               <div class="carousel-caption">
                 <h3></h3>
                 <p></p>
@@ -64,22 +64,22 @@
             <td width="50%">
               <div class="row">
                 <div class="card">
-                  <img class="sepiaimg" src="imgs/caro1.jfif" alt="Avatar" style="width:100%">
+                  <img class="sepiaimg" src="imgs/activity1.jpg" alt="Avatar" style="width:100%">
                 </div>
                 <div class="card" id="secimg">
-                  <img class="sepiaimg" src="imgs/caro2.jfif" alt="Avatar" style="width:100%">
+                  <img class="sepiaimg" src="imgs/group.jpg" alt="Avatar" style="width:100%">
                 </div>
                 <div class="card" id="thirdimg">
-                  <img class="sepiaimg" src="imgs/caro3.jfif" alt="Avatar" style="width:100%">
+                  <img class="sepiaimg" src="imgs/home5.jpg" alt="Avatar" style="width:100%">
                 </div>
                 <div class="card" id="fourthimg">
-                  <img class="sepiaimg" src="imgs/caro4.jfif" alt="Avatar" style="width:100%">
+                  <img class="sepiaimg" src="imgs/campfire.jpg" alt="Avatar" style="width:100%">
                 </div>
                 <div class="card" id="fifthimg">
-                  <img class="sepiaimg" src="imgs/caro1.jfif" alt="Avatar" style="width:100%">
+                  <img class="sepiaimg" src="imgs/home3.jpg" alt="Avatar" style="width:100%">
                 </div>
                 <div class="card" id="sixthimg">
-                  <img class="sepiaimg" src="imgs/caro2.jfif" alt="Avatar" style="width:100%">
+                  <img class="sepiaimg" src="imgs/pool.jpg" alt="Avatar" style="width:100%">
                 </div>
               </div>
             </td>
