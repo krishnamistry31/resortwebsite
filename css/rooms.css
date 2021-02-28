@@ -1,0 +1,62 @@
+button{
+    border:0px solid black; 
+}
+.checkoutcol{
+    vertical-align:top;
+    padding-top:30px;
+}
+.checkoutcol h3{
+    text-align:center;
+    color: rgb(46, 46, 156);
+    text-shadow: 2px 2px cornflowerblue;
+}
+.checkoutcol label{
+    margin:20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+input[type="date"] {
+     display: -webkit-inline-flex;
+     font-family: monospace;
+     overflow: hidden;
+     padding: 0;
+     -webkit-padding-start: 1px;
+     width: 200px;
+     height: 40px;
+     border-radius: 10px;
+}
+
+input::-webkit-datetime-edit {
+    -webkit-user-modify: read-only !important;
+    display: inline-block;
+    min-width: 0;
+    overflow: hidden;
+}
+
+input::-webkit-datetime-edit-fields-wrapper {
+    -webkit-user-modify: read-only !important;
+    display: inline-block;
+    padding: 1px 0;
+    white-space: pre;
+}
+input[type="number"] {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+.anchorbook:link, .anchorbook:visited {
+    margin-top: 20px;
+    margin-left:40px;
+    background-color:rgb(54, 73, 182);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .anchorbook:hover, .anchorbook:active {
+    background-color:rgb(73, 121, 224);
+  }
+

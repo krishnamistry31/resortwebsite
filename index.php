@@ -40,9 +40,9 @@
                 Rooms
                 </a>
                 <div class="dropdown-menu">
-                <a class="dropdown-item anchor" href="index.php?view=rooms.php">Super Deluxe</a>
-                <a class="dropdown-item anchor" href="index.php?view=rooms.php">Super Deluxe Executive</a>
-                <a class="dropdown-item anchor" href="index.php?view=rooms.php">Premium Executive</a>
+                <a class="dropdown-item anchor" href="index.php?view=rooms.php&room=1">Super Deluxe</a>
+                <a class="dropdown-item anchor" href="index.php?view=rooms.php&room=2">Super Deluxe Executive</a>
+                <a class="dropdown-item anchor" href="index.php?view=rooms.php&room=3">Premium Executive</a>
                 </div>
             </li>
         </ul>

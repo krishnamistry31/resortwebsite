@@ -1,0 +1,43 @@
+.roomcard{
+    background-color: rgb(221, 237, 247);
+    height: 270px;
+    border:1px solid rgb(78, 119, 165);
+    margin: 20px;
+}
+.title{
+    margin-left:40px;
+    font-size:30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+ul#menu li {
+    display:inline;
+    border: 1px solid cadetblue;
+  }
+li{
+    padding:10px;
+}
+.anchorbook:link, .anchorbook:visited {
+    margin-top: 20px;
+    margin-left:40px;
+    background-color:rgb(34, 116, 119);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .anchorbook:hover, .anchorbook:active {
+    background-color:cadetblue;
+  }
+
+  .pricecol{
+      vertical-align: text-top;
+      padding-top: 50px;
+      padding-left: 30px;
+  }
+  .pricecol span{
+      font-size: 25px;
+      font-family: 'Comic Sans MS', cursive;   
+      font-style: italic;   
+  }
