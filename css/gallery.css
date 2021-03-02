@@ -39,14 +39,11 @@ h2{
   .image {
     opacity: 1;
     display: block;
-    width: 100%;
-    height: 200px;
     transition: .5s ease;
     backface-visibility: hidden;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-  }  
+    border-radius: 6px;
+  } 
+
   .middle {
     transition: .5s ease;
     opacity: 0;

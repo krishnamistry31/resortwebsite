@@ -16,7 +16,7 @@
     <nav class="navbar navbar-expand-sm fixed-top" style = "background-color: paleturquoise">
         <!-- Brand/logo -->
         <a class="navbar-brand" href="index.php">
-            <img src="imgs/logo.png" alt="logo" style="width:150px;height:50px;">
+            <img src="imgs\oasislogo.png" alt="logo" style="width:200px;height:50px;">
         </a>
         <ul class="navbar-nav">
             <li class="nav-item" style="font-size:23px">
